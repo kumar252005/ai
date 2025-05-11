@@ -57,3 +57,6 @@ Run the Jupyter notebook or Python script to train and evaluate the models
 
 Analyze the visual outputs and model performance
 
+![Screenshot 2025-05-11 133505](https://github.com/user-attachments/assets/e9fd3b22-6b56-4be4-bacc-2a5688051fd1)
+![Screenshot 2025-05-11 165223](https://github.com/user-attachments/assets/f80dc90c-bb38-454e-b1c7-9f8078d78b81)
+
